@@ -53,7 +53,7 @@ fun MyApp() {
                 colors = ButtonDefaults.buttonColors(containerColor = Color.Red),
                 shape = RoundedCornerShape(8.dp)
             ) {
-                Text("Button 9", color = Color.Red)
+                Text("Button 9", color = Color.Gray)
             }
             Button(onClick = {  },
                 colors = ButtonDefaults.buttonColors(containerColor =  Color.Blue)
